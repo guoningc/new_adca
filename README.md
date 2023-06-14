@@ -1,3 +1,4 @@
 # new_adca
 
- debug train_sysu.py
+ debug test_sysu.py
+ 
